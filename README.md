@@ -1,2 +1,2 @@
 # TinDog
-It's a responsive website for dogs created by Using HTML and CSS
+It's a website of collection of dogs created by Using HTML and CSS.
